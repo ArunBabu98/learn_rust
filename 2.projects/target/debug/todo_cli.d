@@ -1,0 +1,1 @@
+C:\Users\1runx\Documents\LEARNING\rust\2.projects\target\debug\todo_cli.exe: C:\Users\1runx\Documents\LEARNING\rust\2.projects\todo_cli\src\main.rs C:\Users\1runx\Documents\LEARNING\rust\2.projects\todo_cli\src\task.rs C:\Users\1runx\Documents\LEARNING\rust\2.projects\todo_cli\src\utils.rs

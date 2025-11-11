@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name": "new task\r\n",
+      "description": "first task in the list\r\n",
+      "status": "Unfinished"
+    },
+    {
+      "name": "second task\r\n",
+      "description": "second task in the list\r\n",
+      "status": "Finished"
+    }
+  ]
+}

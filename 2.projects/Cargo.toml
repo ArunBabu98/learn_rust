@@ -1,0 +1,4 @@
+[workspace]
+members = [ "file_organizer","todo_cli", "word_counter"]
+
+resolver = "2"

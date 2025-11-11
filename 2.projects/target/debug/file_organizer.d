@@ -1,0 +1,1 @@
+C:\Users\1runx\Documents\LEARNING\rust\2.projects\target\debug\file_organizer.exe: C:\Users\1runx\Documents\LEARNING\rust\2.projects\file_organizer\src\main.rs C:\Users\1runx\Documents\LEARNING\rust\2.projects\file_organizer\src\read.rs
