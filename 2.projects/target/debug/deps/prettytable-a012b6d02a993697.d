@@ -1,0 +1,10 @@
+C:\Users\1runx\Documents\LEARNING\rust\2.projects\target\debug\deps\prettytable-a012b6d02a993697.d: C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\lib.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\cell.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\format.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\row.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\utils.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\csv.rs
+
+C:\Users\1runx\Documents\LEARNING\rust\2.projects\target\debug\deps\libprettytable-a012b6d02a993697.rmeta: C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\lib.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\cell.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\format.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\row.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\utils.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\csv.rs
+
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\lib.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\cell.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\format.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\row.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\utils.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prettytable-0.10.0\src\csv.rs:

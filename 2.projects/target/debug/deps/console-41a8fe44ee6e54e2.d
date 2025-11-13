@@ -1,0 +1,11 @@
+C:\Users\1runx\Documents\LEARNING\rust\2.projects\target\debug\deps\console-41a8fe44ee6e54e2.d: C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\lib.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\common_term.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\kb.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\term.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\utils.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\windows_term\mod.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\ansi.rs
+
+C:\Users\1runx\Documents\LEARNING\rust\2.projects\target\debug\deps\libconsole-41a8fe44ee6e54e2.rmeta: C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\lib.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\common_term.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\kb.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\term.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\utils.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\windows_term\mod.rs C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\ansi.rs
+
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\lib.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\common_term.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\kb.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\term.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\utils.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\windows_term\mod.rs:
+C:\Users\1runx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\ansi.rs:

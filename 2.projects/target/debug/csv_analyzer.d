@@ -1,0 +1,1 @@
+C:\Users\1runx\Documents\LEARNING\rust\2.projects\target\debug\csv_analyzer.exe: C:\Users\1runx\Documents\LEARNING\rust\2.projects\csv_analyzer\src\analyzer.rs C:\Users\1runx\Documents\LEARNING\rust\2.projects\csv_analyzer\src\main.rs

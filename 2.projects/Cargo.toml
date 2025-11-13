@@ -1,4 +1,4 @@
 [workspace]
-members = [ "file_organizer","todo_cli", "word_counter"]
+members = [ "crud_api", "csv_analyzer", "file_organizer", "multi_threaded_downloader","todo_cli", "word_counter"]
 
 resolver = "2"

@@ -1,0 +1,1 @@
+C:\Users\1runx\Documents\LEARNING\rust\2.projects\target\debug\multi_threaded_downloader.exe: C:\Users\1runx\Documents\LEARNING\rust\2.projects\multi_threaded_downloader\src\fetch.rs C:\Users\1runx\Documents\LEARNING\rust\2.projects\multi_threaded_downloader\src\main.rs
